@@ -1,6 +1,8 @@
-# MajorAssignment12problem
+# 
+MajorAssignment12problem
  Solving all problems in the attached file using the method mentioned at the beginning of each problem using C++language.
-##MAJOR PROBLEMS
+ 
+## MAJOR PROBLEMS
  
 1- Problem#1 Greedy Algorithm
 2- Problem#2 Greedy Algorithm
